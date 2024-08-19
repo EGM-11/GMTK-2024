@@ -3,7 +3,7 @@
  <properties>
   <property name="DeleteTiles" type="bool" value="true"/>
  </properties>
- <tileset firstgid="1" source="NOT TO SCALE TILESET.tsx"/>
+ <tileset firstgid="1" source="../../../../../../Desktop/GMTK 2024/Tiled/NOT TO SCALE TILESET.tsx"/>
  <tileset firstgid="514" source=":/automap-tiles.tsx"/>
  <layer id="2" name="input_walls" width="31" height="69">
   <data encoding="csv">
