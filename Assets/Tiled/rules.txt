@@ -1,1 +1,1 @@
-autotilerules.tmx
+Rules\autotilerules.tmx
